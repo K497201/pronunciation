@@ -1,0 +1,8 @@
+{
+  "name": "Pronunciation Coach",
+  "description": "An AI-powered communication coach. Improve your English pronunciation, prepare for job interviews with tailored feedback, and check your grammar and writing style.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
